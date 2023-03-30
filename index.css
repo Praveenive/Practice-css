@@ -1,0 +1,56 @@
+.border{
+    border: 1px solid black;
+    width: 500px;
+    padding:50px 350px;
+    margin:100px;
+    padding-top: 100px;
+}
+.inborder{
+    border:1px solid black;
+    width:420px;
+    padding:150px;
+     margin: 30px ; 
+     margin-left:-280px;
+     padding-right: 450px;
+     display:flex;
+}
+.head{
+    padding-bottom: 50px;
+    text-align: center;
+    margin-top: -60px;
+    font-size: 50px;
+}
+.sub{
+    
+    text-align: center;
+    margin-top: -60px;
+    font-size: 30px;
+  
+}
+.left{
+
+    flex:40%;
+}
+.smallbox{
+    border: 1px solid black;
+    padding: 100px;
+    margin:20px;
+    margin:-70px;
+}
+.image{
+    border:1px solid black;
+    width: 150px;
+    height: 150px;
+        padding: 15px;
+    text-align: center;
+    border-radius: 150px
+}
+.right{
+    display: inline;
+    flex:60%;
+  margin-left: 150px;
+ font-size: 30px;
+}
+.inline{
+    display: inline;
+}
